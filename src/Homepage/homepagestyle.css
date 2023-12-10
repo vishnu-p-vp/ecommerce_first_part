@@ -1,0 +1,35 @@
+.carousel-inner{
+    height: 100vh;
+}
+
+/* home page - about us  */
+.row1{
+    margin: 20px;
+}
+
+.con1{
+    padding-bottom: 50px;
+}
+.setpadding{
+    padding-top: 23px;
+}
+.setalign{
+    text-align: center;
+}
+#brandshead{
+    text-align: center;
+    color: #0D6EFD;
+    font-family: 'Montserrat', sans-serif;
+}
+.brandsstyle{
+    /* padding: 20px 400px; */
+}
+.quotes{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin: 30px auto;
+}
+.setimg{
+    height: 200px;
+    width: 200px;
+}

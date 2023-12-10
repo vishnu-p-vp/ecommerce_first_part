@@ -1,0 +1,36 @@
+.cardstyle{
+    width: 18rem;
+}
+
+/* category containing cards */
+.container1{
+    border: 2px solid #0D6EFD;
+    margin: 15px auto;
+    background-color: #ffffff;
+}
+.categoryname{
+    margin: 10px auto;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+/* font-family: 'Oswald', sans-serif; */
+}
+.cardstyle{
+    margin: 10px 5px;
+    border: 2px solid #758283;
+}
+.carttop{
+    margin-top: 70px;
+    text-align: center;
+}
+.imageset{
+    width: 300px;
+    height: 250px;
+}
+.container2{
+    border: 2px solid #0D6EFD;
+    margin: 19px auto;
+    background-color: #ffffff;
+}
+.row2{
+    margin: 50px;
+}
